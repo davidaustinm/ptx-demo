@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="activity-01-intro-activity">
+  <title>Introduction Activity</title>
+
+  <!-- Optional introduction -->
+  <introduction>
+    <p>
+      This is the introduction to the activity.
+    </p>
+  </introduction>
+
+  <!-- Exercises start here. -->
+  <exercise workspace="2in">
+    <statement>
+      <p>
+        This is the first exercise.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <introduction>
+      <p>
+        Find the following sums.
+      </p>
+    </introduction>
+    <task workspace="2in">
+      <statement>
+        <p>
+          Find the sum <m>2+2</m>.
+        </p>
+      </statement>
+    </task>
+    <task workspace="3in">
+      <statement>
+        <p>
+          Find the sum <m>\sum_{n=0}^\infty 2^{-n}</m>.
+        </p>
+      </statement>
+    </task>
+  </exercise>
+
+</worksheet>
