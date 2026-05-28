@@ -39,6 +39,9 @@
           Find the sum <m>\sum_{n=0}^\infty 2^{-n}</m>.
         </p>
       </statement>
+      <solution>
+        <p>It's 2.  The answer is 2.</p>
+      </solution>
     </task>
   </exercise>
 
