@@ -43,7 +43,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Introduction Activity",
-  "body": " Introduction Activity    This is the introduction to the activity.      This is the first exercise.      Find the following sums.     Find the sum .      Find the sum .     "
+  "body": " Introduction Activity    This is the introduction to the activity.      This is the first exercise.      Find the following sums.     Find the sum .      Find the sum .    It's 2. The answer is 2.     "
 },
 {
   "id": "activity-01-intro-activity-3",
@@ -61,7 +61,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Find the following sums.     Find the sum .      Find the sum .    "
+  "body": "  Find the following sums.     Find the sum .      Find the sum .    It's 2. The answer is 2.    "
 },
 {
   "id": "handouts",
